@@ -36,6 +36,11 @@
 }
 .link-to-contact{
     color: white;
+    text-decoration-line: none;
+font-weight: bolder;
+}
+.link-to-contact:hover{
+    color: #898989;
 }
 /* .social-networks-icons{
     display: flex;
@@ -43,6 +48,9 @@
 .social-networks-icons{
     margin-right: 5px;
     color: blue  ;
+}
+.social-networks-icons:hover{
+    color: #898989;
 }
 .paragraphs-infos{
     text-transform: capitalize;
